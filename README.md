@@ -90,8 +90,6 @@ and provides an interactive overview of retail performance.
 - Customer revenue analysis
 - Interactive country and month filters
 
-![E-Commerce Sales Analytics Dashboard](screenshots/power_bi_dashboard.png)
-
 ---
 
 ## Key Analytical Findings
@@ -137,11 +135,11 @@ engagement and retention strategies.
 A linear regression model was developed to predict daily revenue
 using historical sales and calendar-based features.
 
-| Evaluation Metric | Result |
-|---|---:|
-| Mean Absolute Error | £6,333.93 |
-| Root Mean Squared Error | £7,868.82 |
-| R² Score | 0.5060 |
+| Evaluation Metric       | Result         |
+|--------                 |---:            |
+| Mean Absolute Error     | £6,333.93      |
+| Root Mean Squared Error | £7,868.82      |
+| R² Score                | 0.5060         |
 
 The model explains approximately 50.6% of the variation in the
 evaluation data. Its predictions should be interpreted alongside
